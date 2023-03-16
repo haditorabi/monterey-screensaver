@@ -1,0 +1,26 @@
+{
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "name": "monterey-screensaver",
+  "description": "Monterey Screensaver like code created in p5js",
+  "version": "1.0.0",
+  "main": "index.html",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haditorabi/monterey-screensaver.git"
+  },
+  "keywords": [
+    "monterary",
+    "screensaver",
+    "p5js"
+  ],
+  "author": "Hadi Torabi",
+  "license": "MIT",
+  "homepage": "https://github.com/haditorabi/monterey-screensaver#readme"
+}
